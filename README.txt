@@ -3,7 +3,7 @@
 
 Welcome to my personal portfolio! This website showcases my skills, projects, education, and contact information in an interactive and visually appealing way.
 
-🌐 **Click Here to Access Live Portfolio:** [https://zoreneramos.netlify.app](zoreneramos.netlify.app)
+🌐 **Click Here to Access Live Portfolio:** [https://lcbalsa.netlify.app](lcbalsa.netlify.app)
 
 ---
 

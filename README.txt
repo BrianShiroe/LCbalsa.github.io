@@ -3,7 +3,7 @@
 
 Welcome to my personal portfolio! This website showcases my skills, projects, education, and contact information in an interactive and visually appealing way.
 
-🌐 **Click Here to Access Live Portfolio:** [brianshiroe.github.io](https://brianshiroe.github.io/)
+🌐 **Click Here to Access Live Portfolio:** [https://brianshiroe.github.io/zoreneramos.github.io/](https://brianshiroe.github.io/zoreneramos.github.io/)
 
 ---
 
